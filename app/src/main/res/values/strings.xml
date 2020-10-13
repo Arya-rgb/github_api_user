@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Github Users</string>
+    <string name="finduser">Find User </string>
+    <string name="username">username </string>
+    <string name="github_username">github_username </string>
+    <string name="user_repo">Repository </string>
+    <string name="following">Following </string>
+    <string name="follower">Follower </string>
+    <string name="location">Location </string>
+    <string name="company">Company </string>
+    <string name="change_language">Setting </string>
+    <string name="detail_user">Detail User </string>
+    <string name="user_fav">Favorite User</string>
+    <string name="Daily_Reminder">Lets Check Github Account</string>
+    <string name="todo" translatable="false">TODO</string>
+    <string name="change_language_settings">Change Language</string>
+    <string name="daily_reminder">Daily Reminder</string>
+    <string name="_2020_thorin_creative_studio">2020 Thorin Creative Studio</string>
+    <string name="title_setting">Settings</string>
+</resources>

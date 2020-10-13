@@ -1,0 +1,11 @@
+<resources>
+       <string name="app_name">Favorite User</string>
+ <string name="username">username </string>
+ <string name="github_username">github_username </string>
+ <string name="user_repo">Repository </string>
+ <string name="following">Following </string>
+ <string name="follower">Follower </string>
+ <string name="location">Location </string>
+ <string name="company">Company </string>
+ <string name="user_fav">Favorite User</string>
+    </resources>

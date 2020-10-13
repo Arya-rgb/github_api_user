@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pengguna Github</string>
+    <string name="finduser">Temukan User </string>
+    <string name="username">username </string>
+    <string name="github_username">github_username </string>
+    <string name="user_repo">Repository </string>
+    <string name="following">Mengikuti </string>
+    <string name="follower">Pengikut </string>
+    <string name="location">Lokasi </string>
+    <string name="company">Perusahaan </string>
+    <string name="change_language">Pengaturan </string>
+    <string name="detail_user">Info Pengguna </string>
+    <string name="user_fav">Pengguna Pilihan</string>
+    <string name="Daily_Reminder">Ayo, Kita lihat akun github</string>
+    <string name="change_language_settings">Ubah Bahasa</string>
+    <string name="daily_reminder">Pengingat Setiap Hari</string>
+    <string name="_2020_thorin_creative_studio">2020 Thorin Creative Studio</string>
+    <string name="title_setting">Pengaturan</string>
+
+
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pengguna Pilihan</string>
+    <string name="username">username </string>
+    <string name="github_username">github_username </string>
+    <string name="user_repo">Repository </string>
+    <string name="following">Mengikuti </string>
+    <string name="follower">Pengikut </string>
+    <string name="location">Lokasi </string>
+    <string name="company">Perusahaan </string>
+    <string name="user_fav">Pengguna Pilihan</string>
+</resources>
